@@ -1,2 +1,2 @@
 # homelessstudent.github.io
-Donate to Homeless Students Just Trying to Survie
+Donate to a Homeless Student Just Trying to Survie
