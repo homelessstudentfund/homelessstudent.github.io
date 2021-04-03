@@ -34,7 +34,7 @@ body
 }
 #grad
 {
-	background-image: linear-gradient(to bottom right, blue, red, yellow);
+	background-image: ;
 
 }
 table
@@ -310,7 +310,9 @@ video
  }
 #grad
 {
-	background-image: linear-gradient(to right bottom, blue, red, yellow);
+	background-image: linear-gradient(to bottom right, blue, red, yellow);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 #dark
 {
